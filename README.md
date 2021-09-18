@@ -10,5 +10,4 @@ In this activity, you will use conditional statements to determine which alert w
 
   * If they respond with "Cancel", alert the following to the page: "Here’s a veggie burger!"
 
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+https://sehaj97.github.io/js-orderburger/
